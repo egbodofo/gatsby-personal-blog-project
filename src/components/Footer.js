@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.logo}>
-        <img src={logo} alt="john smilga logo"></img>
+        <img src={logo} alt="egbodofo oluwafemi logo"></img>
       </div>
       <div className={styles.icons}>
         {icons.map(item => {
@@ -18,7 +18,7 @@ const Footer = () => {
         })}
       </div>
       <div className={styles.info}>
-        © {new Date().getFullYear()} John Smilga. All rights reserved. Built
+        © {new Date().getFullYear()} Egbodofo Oluwafemi. All rights reserved. Built
         with
         <a href="https://www.gatsbyjs.org/" className={styles.link}>
           Gatsby
