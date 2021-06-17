@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
-// import Course from ./Course
 import Course from "./Course"
 import styles from "../../css/courses.module.css"
 import Title from "../Title"

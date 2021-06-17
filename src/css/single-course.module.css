@@ -31,7 +31,6 @@
 }
 .footer {
   padding: 1.5rem 1rem;
-  /* text-align: center; */
   display: grid;
   grid-template-rows: auto 1fr;
 }
